@@ -1,3 +1,5 @@
+NOTE: I was unable to load the heatmap and hotel overlays due to an error loading the widget in Jupyter lab. I attempted to uninstall and reinstall everything, also read a lot online of people running into the same issue. The recommendation on the README instructions did not work either. If possible, can the grader open my notebook for that part and load the images to grade this section? Apologies for the inconvenience.
+
 # Unit 6 Homework: What's the Weather Like?
 
 ## Background
